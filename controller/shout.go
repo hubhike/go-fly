@@ -3,9 +3,9 @@ package controller
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/taoshihan1991/imaptool/models"
-	"github.com/taoshihan1991/imaptool/tools"
-	"github.com/taoshihan1991/imaptool/ws"
+	"github.com/hubhike/go-fly/models"
+	"github.com/hubhike/go-fly/tools"
+	"github.com/hubhike/go-fly/ws"
 	"log"
 	"strconv"
 	"time"
