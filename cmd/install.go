@@ -2,9 +2,9 @@ package cmd
 
 import (
 	"github.com/spf13/cobra"
-	"github.com/taoshihan1991/imaptool/common"
-	"github.com/taoshihan1991/imaptool/models"
-	"github.com/taoshihan1991/imaptool/tools"
+	"github.com/hubhike/go-fly/common"
+	"github.com/hubhike/go-fly/models"
+	"github.com/hubhike/go-fly/tools"
 	"io/ioutil"
 	"log"
 	"os"
