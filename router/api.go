@@ -2,9 +2,9 @@ package router
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/taoshihan1991/imaptool/controller"
-	"github.com/taoshihan1991/imaptool/middleware"
-	"github.com/taoshihan1991/imaptool/ws"
+	"github.com/hubhike/go-fly/controller"
+	"github.com/hubhike/go-fly/middleware"
+	"github.com/hubhike/go-fly/ws"
 )
 
 func InitApiRouter(engine *gin.Engine) {
