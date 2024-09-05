@@ -4,9 +4,9 @@ import (
 	"github.com/dchest/captcha"
 	"github.com/gin-contrib/sessions"
 	"github.com/gin-gonic/gin"
-	"github.com/taoshihan1991/imaptool/models"
-	"github.com/taoshihan1991/imaptool/tools"
-	"github.com/taoshihan1991/imaptool/ws"
+	"github.com/hubhike/go-fly/models"
+	"github.com/hubhike/go-fly/tools"
+	"github.com/hubhike/go-fly/ws"
 )
 
 func PostKefuAvator(c *gin.Context) {
