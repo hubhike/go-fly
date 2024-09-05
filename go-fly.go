@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/taoshihan1991/imaptool/cmd"
+	"github.com/hubhike/go-fly/cmd"
 )
 
 func main() {
