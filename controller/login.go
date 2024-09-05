@@ -2,7 +2,7 @@ package controller
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/taoshihan1991/imaptool/tools"
+	"github.com/hubhike/go-fly/tools"
 	"log"
 	"net/url"
 	"time"
