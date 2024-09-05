@@ -2,7 +2,7 @@ package common
 
 import (
 	"encoding/json"
-	"github.com/taoshihan1991/imaptool/tools"
+	"github.com/hubhike/go-fly/tools"
 	"io/ioutil"
 )
 
